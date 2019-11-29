@@ -18,3 +18,11 @@
   background-color: #282c34;
   border: 1px solid white;
 }
+
+.done {
+  background-color: darkslategrey !important;
+}
+
+.boom {
+  background-color: darkred !important;
+}
