@@ -6,7 +6,7 @@ html, body {
   height: 100%;
 }
 .box {
-  background-color: #eeeeee;
+  background-color: #EEEE;
   height: 100%;
 }
 
@@ -30,14 +30,14 @@ html, body {
   height: 5em;
   text-align: center;
   vertical-align: middle;
-  background-color: #282c34;
-  border: 1px solid white;
+  background-color: #282C34;
+  border: 1px solid #EEE;
 }
 
 .chess-board .done {
-  background-color: darkslategrey;
+  background-color: #2F4F4F;
 }
 
 .chess-board .boom {
-  background-color: darkred;
+  background-color: #8B0000;
 }
